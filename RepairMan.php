@@ -28,6 +28,7 @@ if(!class_exists('MYCLASS')){
     
     class MYCLASS{
 
+        //test2
     private $mypath;
     private $myurl;
     private $version;
